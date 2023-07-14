@@ -1,0 +1,15 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-solonsfront-dev-20804-authRole",
+      "UnauthRoleArn": "arn:aws:iam::001061446476:role/amplify-solonsfront-dev-20804-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::001061446476:role/amplify-solonsfront-dev-20804-authRole",
+      "Region": "ap-northeast-1",
+      "DeploymentBucketName": "amplify-solonsfront-dev-20804-deployment",
+      "UnauthRoleName": "amplify-solonsfront-dev-20804-unauthRole",
+      "StackName": "amplify-solonsfront-dev-20804",
+      "StackId": "arn:aws:cloudformation:ap-northeast-1:001061446476:stack/amplify-solonsfront-dev-20804/ff9f09a0-2268-11ee-9ba8-0ae71090731b",
+      "AmplifyAppId": "d19l8ya27933mm"
+    }
+  }
+}
