@@ -10,6 +10,11 @@
       "StackName": "amplify-solonsfront-dev-20804",
       "StackId": "arn:aws:cloudformation:ap-northeast-1:001061446476:stack/amplify-solonsfront-dev-20804/ff9f09a0-2268-11ee-9ba8-0ae71090731b",
       "AmplifyAppId": "d19l8ya27933mm"
+    },
+    "categories": {
+      "auth": {
+        "solonsfront": {}
+      }
     }
   }
 }
