@@ -15,6 +15,8 @@
     "@types/react-dom": "18.2.7",
     "autoprefixer": "10.4.14",
     "aws-amplify": "^5.3.4",
+    "aws-crt": "^1.15.20",
+    "encoding": "^0.1.13",
     "eslint": "8.45.0",
     "eslint-config-next": "13.4.10",
     "next": "13.4.10",
